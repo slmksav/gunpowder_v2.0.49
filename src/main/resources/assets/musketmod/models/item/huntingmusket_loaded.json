@@ -1,0 +1,6 @@
+{
+  "parent": "musketmod:item/huntingmusket",
+  "textures": {
+    "layer0": "musketmod:item/huntingmusket_loaded"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "musketmod",
+  "version": "${version}",
+  "name": "Musket Mod",
+  "description": "Small mod that adds craftable muskets and pistols",
+  "icon": "assets/musketmod/icon.png",
+  "authors": [
+    "ewewukek"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ewewukek.musketmod.MusketMod"
+    ],
+    "client": [
+      "ewewukek.musketmod.ClientSetup"
+    ]
+  },
+  "mixins": [
+    "musketmod.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.19.2",
+    "java": ">=17",
+    "fabricloader": ">=0.14.2",
+    "fabric-api-base": ">=0.1.0",
+    "fabric-networking-api-v1": ">=0.1.0",
+    "fabric-object-builder-api-v1": ">=0.1.0",
+    "fabric-resource-loader-v0": ">=0.1.0"
+  }
+}
