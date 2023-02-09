@@ -9,3 +9,6 @@ An updated and tweaked version of ewewukek's musket mod for Fabric 0.11.1 MC 1.9
 If you do not want to compile the files yourself into a .jar using an IDE,
 the direct download link is: https://drive.google.com/file/d/14JlXN4Ao8nNSR8vY1zp860hvNk4_VP1j/
 Designed to be used along with the datapack collection, which includes better recipes for required items.
+
+# Video:
+https://www.youtube.com/watch?v=w3R8GrLWfS4
